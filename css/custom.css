@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap');
+@import url('https//fonts.googleapis.com/earlyaccess/jejugothic.css');
+h1, h2, h3, h4, h5, h6 .nabar-brand{
+  font-family: 'Nanum Gothic';
+  color : #455A64;
+}
+
+body{
+  font-family: 'Nanum Gothic';
+  background-color: #B0BEC5;
+}
+
+.card-img-top {
+  width: 430px;
+  height: 430px;
+}
+
+.card-img-top1 {
+  width: 415px;
+  height: 415px;
+}
+
+.card-deck {
+  margin: 5px;
+}
+
+.navbar {
+  border-bottom: #455A64 3px solid;
+}
